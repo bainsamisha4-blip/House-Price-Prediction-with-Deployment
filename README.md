@@ -43,7 +43,6 @@ model through a simple web interface so anyone can get an instant prediction.
 | Model saving | **Joblib** | Save/load trained pipeline (`.pkl`) |
 | Web app / Deployment | **Streamlit** | Interactive UI for real-time predictions |
 | Development | **Jupyter Notebook**, **VS Code** | Experimentation and coding |
-| Version control | **Git & GitHub** | Source control and hosting |
 | Cloud hosting | **Streamlit Community Cloud** | Free online deployment |
 
 ## 📊 Dataset
@@ -171,9 +170,9 @@ The app opens at **http://localhost:8501**.
 - Add automated tests and CI/CD with GitHub Actions
 
 ## 👤 Author
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+Amisha Devi
+- GitHub: https://github.com/bainsamisha4-blip
+- LinkedIn: https://www.linkedin.com/in/amisha-devi-152021391
+- Email: bainsamisha4@gmail.com
 
 ⭐ If you found this project useful, please give it a star!
