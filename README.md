@@ -51,6 +51,8 @@ To retrain the model, open `notebooks/house_price_prediction.ipynb` and run all 
 ```
 
 ## 👤 Author
- Amisha Dei
+ Amisha Devi
+ 
  student of M.SC. Data science
+ 
  GitHub : https://github.com/bainsamisha4-blip
