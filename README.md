@@ -2,7 +2,7 @@
 
 A machine learning project that predicts house prices from property features and serves real-time predictions through an interactive **Streamlit** web app.
 
-🔗 **Live App:** _add your Streamlit link here_
+🔗 **Live App:** https://bains4-house-price.streamlit.app
 
 ## 🛠️ Technologies Used
 - **Python** – core language
